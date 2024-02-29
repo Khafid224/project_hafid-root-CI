@@ -1,3 +1,14 @@
+LAPORAN 
+[LAPORAN PENGUJIAN INSTALASI FRAMEWORK CI.pdf](https://github.com/Khafid224/project_hafid-root-CI/files/14442912/LAPORAN.PENGUJIAN.INSTALASI.FRAMEWORK.CI.pdf)
+
+Screnshot
+![image](https://github.com/Khafid224/project_hafid-root-CI/assets/145306005/dd9552ca-ce77-4a49-9141-12409aec645d)
+![image](https://github.com/Khafid224/project_hafid-root-CI/assets/145306005/2c99fd0c-7f25-4e24-b58a-2d4a98c36fcf)
+![image](https://github.com/Khafid224/project_hafid-root-CI/assets/145306005/c60b1a3b-47b3-47b8-85e9-2b340e9acdf4)
+![image](https://github.com/Khafid224/project_hafid-root-CI/assets/145306005/c19c5fdb-d463-4470-a3dc-9fcc4c305440)
+![image](https://github.com/Khafid224/project_hafid-root-CI/assets/145306005/49c6f58f-3b54-4ba3-8e2b-cec1b0e3f0bb)
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
